@@ -1,8 +1,6 @@
 <div align="center">
 <p align="center">
 
-# NO3L
-
 <p align="center">
 
 ![](https://img.shields.io/badge/CYBER_SECURITY-0d1117?style=for-the-badge&logo=hackaday&logoColor=00ff88)
