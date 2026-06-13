@@ -27,11 +27,10 @@ Linguagens........: Python, Ruby, Go, C, C#, C++, Bash e JavaScript
 Sistema Favorito.: Linux
 Objetivo..........: Evoluir continuamente em Segurança da Informação
 
----
 
 Tecnologias e Ferramentas
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,bash,js,linux,vscode,git,github,docker&theme=dark" /></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,bash,js,linux,vscode,git,github,docker&theme=dark" /></div>
 
 Segurança da Informação
 
@@ -43,33 +42,3 @@ Segurança da Informação
 - Hardening
 - Vulnerability Assessment
 - Cyber Defense
-
----
-
-Estatísticas
-
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoelSorit3&show_icons=true&theme=github_dark&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSorit3&layout=compact&theme=github_dark&hide_border=true"/></div>---
-
-Stack Atual
-
-<p align="center"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker"/></p>---
-
-Sistema Operacional
-
-OS: Linux
-Shell: Bash
-Editor: VS Code
-Language: Python
-Mode: Learning
-
----
-
-<div align="center">"Security is not a product, but a process."
-
-<img src="https://komarev.com/ghpvc/?username=NoelSorit3&style=for-the-badge&color=00ff88"/></div>
-```
