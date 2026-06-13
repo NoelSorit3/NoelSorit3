@@ -1,7 +1,6 @@
 <div align="center">
 
-# NOEL
-#### Cyber Security • Ethical Hacking • Pentesting
+# NO3L
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cyber+Security;Ethical+Hacking;Penetration+Testing;Python+Developer;Linux+Enthusiast">
