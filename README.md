@@ -3,17 +3,6 @@
 
 # NO3L
 
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=NoelSorit3&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSorit3&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-
 <p align="center">
 
 ![](https://img.shields.io/badge/CYBER_SECURITY-0d1117?style=for-the-badge&logo=hackaday&logoColor=00ff88)
