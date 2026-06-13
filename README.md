@@ -31,4 +31,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/NoelSorit3/NoelSorit3/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
 </div>
