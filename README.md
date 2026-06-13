@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/Pentesting-00ff88?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open_Source-0d1117?style=for-the-badge&logo=github"/>
 
+---
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoelSorit3&show_icons=true&theme=github_dark&hide_border=true"/>
 
