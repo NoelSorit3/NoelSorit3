@@ -1,8 +1,32 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, eu sou NOEL!
+# NOEL
+### Cyber Security • Ethical Hacking • Pentesting
+
+---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Ethical+Hacking;Penetration+Testing;Network+Security;Always+Learning..." />
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cyber+Security;Ethical+Hacking;Penetration+Testing;Python+Developer;Linux+Enthusiast">
+</p>
+
+---
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoelSorit3&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSorit3&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Tecnologias e Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark">
+</p>
 
 ---
 
@@ -15,30 +39,14 @@
 
 ---
 
-# Sobre mim
+## Arsenal
 
-```bash
-> whoami
-
-Nome.............: Me chame de NOEL
-Área.............: Cyber Security
-Interesses.......: Ethical Hacking, Pentest, Network Security
-Linguagens........: Python, Ruby, Go, C, C#, C++, Bash e JavaScript
-Sistema Favorito.: Linux
-Objetivo..........: Evoluir continuamente em Segurança da Informação
-
-
-Tecnologias e Ferramentas
-
-<div align="center"><img src="https://skillicons.dev/icons?i=python,bash,js,linux,vscode,git,github,docker&theme=dark" /></div>
-
-Segurança da Informação
-
-- Penetration Testing
-- Web Security
-- Network Security
-- OSINT
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- Python
 - Linux
-- Hardening
-- Vulnerability Assessment
-- Cyber Defense
+- OSINT
+- Docker
