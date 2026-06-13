@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cyber+Security;Ethical+Hacking;Penetration+Testing;Python+Developer;Linux+Enthusiast">
 </p>
 
-## Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark">
