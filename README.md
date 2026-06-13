@@ -19,6 +19,10 @@
 
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark" />
+</p>
+
 ### Tecnologias e Ferramentas
 
 <p align="center">
