@@ -12,7 +12,6 @@
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark">
 </p>
 
----
 
 <img src="https://img.shields.io/badge/Cyber-Security-00ff88?style=for-the-badge&logo=hackaday&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ethical-Hacking-0d1117?style=for-the-badge&logo=kalilinux"/>
