@@ -32,17 +32,3 @@
 <img src="https://img.shields.io/badge/Open_Source-0d1117?style=for-the-badge&logo=github"/>
 
 </div>
-
----
-
-## Arsenal
-
-- Kali Linux
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-- Python
-- Linux
-- OSINT
-- Docker
