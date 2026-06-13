@@ -5,7 +5,13 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NoelSorit3/NoelSorit3/output/github-contribution-grid-snake-dark.svg">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=NoelSorit3&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSorit3&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 
