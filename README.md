@@ -7,13 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cyber+Security;Ethical+Hacking;Penetration+Testing;Python+Developer;Linux+Enthusiast">
 </p>
 
----
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoelSorit3&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelSorit3&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 ## Tecnologias e Ferramentas
 
 <p align="center">
