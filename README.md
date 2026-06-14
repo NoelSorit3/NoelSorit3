@@ -15,9 +15,7 @@
 
 ---
 
-## Contributions
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
-
+# Contributions
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSorit3&theme=github_dark"/>
 
 </div>
