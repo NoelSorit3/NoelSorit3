@@ -7,8 +7,6 @@
 ![](https://img.shields.io/badge/PENTESTING-0d1117?style=for-the-badge)
 ![](https://img.shields.io/badge/OPEN_SOURCE-0d1117?style=for-the-badge&logo=github)
 
-</p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,docker&theme=dark" />
 </p>
