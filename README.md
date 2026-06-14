@@ -18,7 +18,7 @@
 ## Contributions
 <br>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NoelSorit3&theme=github-dark-blue&hide_border=true"/>
+
 
 <br><br>
 
