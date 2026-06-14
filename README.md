@@ -16,7 +16,6 @@
 ---
 
 ## Contributions
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NoelSorit3&bg_color=0d1117&color=8b949e&line=58a6ff&point=f85149&area=true&hide_border=true"/>
 
 <br>
@@ -28,9 +27,5 @@
 <br><br>
 
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSorit3&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/NoelSorit3/NoelSorit3/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
