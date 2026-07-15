@@ -12,6 +12,6 @@
 </p>
 
 # Contributions
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoelSorit3&theme=github_dark"/>
+
 
 </div>
